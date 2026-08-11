@@ -1,0 +1,1 @@
+{"type":"Live2D Model Setting","version":"Sample 1.0.0","name":"koharu","model":"moc/koharu.moc","textures":["moc/koharu.2048/texture_00.png"],"physics":"koharu.physics.json","layout":{"height":1.7,"center_y":0.1},"motions":{"idle":[{"file":"mtn/idle.mtn"}],"tap_body":[{"file":"mtn/01.mtn"},{"file":"mtn/02.mtn"},{"file":"mtn/03.mtn"}]}}
